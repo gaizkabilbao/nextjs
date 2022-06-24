@@ -4,7 +4,7 @@ import SubHero from "./SubHero"
 import Services from "./Services"
 import Footer from "./Footer"
 
-export default function Layout ({children}) {
+export default function Layout () {
     return (
        <div className="bg-body">
        <Navbar />
